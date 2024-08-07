@@ -9,7 +9,6 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 public class SbMsConsumerRDAppApplication {
 
 	public static void main(String[] args) {
-		System.out.println("SbMsConsumerRDAppApplication.main()");
 		SpringApplication.run(SbMsConsumerRDAppApplication.class, args);
 	}
 
